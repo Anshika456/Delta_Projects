@@ -25,6 +25,8 @@ btn.addEventListener("click" , function(event) {
    
 });
 
+// Event Delegation 
+
 // ul.addEventListener("click",function(event){
 //    if (event.target.nodeName == "BUTTON") {
 //     let par = event.target.parentElement ;
